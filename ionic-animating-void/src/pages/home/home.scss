@@ -1,0 +1,16 @@
+.ios, .md {
+
+	page-home {
+
+		.scroll-content {
+			background-color: map-get($colors, light);
+		}
+
+		ion-item {
+			padding: 10px;
+			margin-bottom: 10px;
+		}
+
+	}
+
+}

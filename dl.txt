@@ -1,0 +1,5 @@
+joshua ionic-sunset https://github.com/joshuamorony/ionic-sunset.git
+joshua ionic2-flash-card https://github.com/joshuamorony/ionic2-flash-card.git
+joshua ionic2-local-notifications https://github.com/joshuamorony/ionic2-local-notifications.git
+joshua ionic2-todo https://github.com/joshuamorony/ionic2-todo.git
+joshua ionic2-background-geolocation https://github.com/joshuamorony/ionic2-background-geolocation.git

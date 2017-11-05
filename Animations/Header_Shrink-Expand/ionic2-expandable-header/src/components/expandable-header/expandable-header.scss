@@ -1,0 +1,15 @@
+expandable-header {
+
+	display: block;
+	background-color: map-get($colors, primary);
+	overflow: hidden;
+	.swipeZone {
+		height:250px;
+		width:250px;
+		margin: auto;
+		background-color: chartreuse;
+		margin-top:40px;
+		font-size: 28px;
+		font-weight: bold;
+	}
+}
